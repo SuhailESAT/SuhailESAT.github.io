@@ -1,0 +1,6 @@
+title: Suhail
+logo: assets/images/IMG_8415.JPG
+show_downloads: True
+remote_theme: pages - themes/minimal@v0.0
+plugins:
+- jeckyll-remote-theme
